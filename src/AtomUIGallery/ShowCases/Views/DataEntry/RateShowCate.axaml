@@ -8,7 +8,7 @@
             Title="Customize tooltip"
             Description="Use tooltip.formatter to format content of Tooltip. If tooltip.formatter is null, hide it.">
             <StackPanel Orientation="Vertical" Spacing="20">
-                <atom:Rate></atom:Rate>
+                <atom:Rate Character="A" Value="3.5"></atom:Rate>
             </StackPanel>
         </gallerycontrols:ShowCaseItem>
     </gallerycontrols:ShowCasePanel>
